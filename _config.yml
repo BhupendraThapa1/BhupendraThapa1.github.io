@@ -7,13 +7,13 @@ tagshort: Jekyll theme
 url: https://bhupendrathapa1.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/ShashwatAdh/ShashwatAdh.github.io
+repo: https://github.com/BhupendraThapa1/BhupendraThapa.github.io
 
 # author settings
 
 author:
-  name: Shashwat Adhikari
-  email: shashwatmail4@gmail.com
+  name: Bhupendra Thapa
+  email: bhupendrathapa0@gmail.com
 photo: /assets/Avatar_1.png
 
 # build settings
