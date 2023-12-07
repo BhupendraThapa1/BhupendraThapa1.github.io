@@ -1,10 +1,10 @@
 # site settings
 
-title: Shashwat Adhikari
+title: Bhupendra Thapa
 description: Personal Website
 taglong: A personal site to spill out my wacky thoughts!
 tagshort: Jekyll theme
-url: https://shashwatadh.github.io/
+url: https://bhupendrathapa1.github.io/
 baseurl: ""
 permalink: pretty
 repo: https://github.com/ShashwatAdh/ShashwatAdh.github.io
